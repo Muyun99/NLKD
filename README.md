@@ -16,6 +16,9 @@ Modern supervised learning relies on a large amount of training data, yet there 
 - Download the Mask from teacher Network: [link](https://drive.google.com/drive/folders/1BMF8h3ZbzQI4vYu4kiiSPBm8nCBd2Pn2?usp=sharing)
 - Generate the sample Weight: ref to `utils/get_weight.py`
 
+### 3. Prepare the Environment
+- `pip install -r requirements.txt`
+
 ## Get Started
 ref to `run.sh`
 
